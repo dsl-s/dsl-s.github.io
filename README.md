@@ -16,7 +16,7 @@ For general organizational information, including deadlines and system descripti
 
 We provide a simple baseliene at <https://github.com/dsl-s/baselines>.
 
-The audio data provided as MP3 files by the [Mozilla Common Voice](https://commonvoice.mozilla.org). We also provide pre-computed i-vectors, x-vectors and MFCC features extracted using [Kaldi](https://kaldi-asr.org/). The pre-computed features can be downloaded from [Zenodo](https://zenodo.org/record/7555151). The baseline repository also includes helper scripts for downloading the source data and pre-computed features.
+The audio data provided as MP3 files by the [Mozilla Common Voice](https://commonvoice.mozilla.org). We also provide pre-computed i-vectors, x-vectors and MFCC features extracted using [Kaldi](https://kaldi-asr.org/). The pre-computed features can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.7555150). The baseline repository also includes helper scripts for downloading the source data and pre-computed features.
 
 ## Submission instructions
 
