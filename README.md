@@ -10,13 +10,7 @@ The 9-way classification task is divided into two separate tracks.
 
 Both tracks use the macro F1 score over the nine languages as the ranking measure. We will also report micro F1 scores for the larger picture.
 
-## Important dates
-
-- Training/development data and features ready
-- Submission of results
-- System description paper deadline
-- Review results
-- Final (camera-ready) papers
+For general organizational information, including deadlines and system description papers, please visit main [VarDial shared tasks site](https://sites.google.com/view/vardial-2023/shared-tasks).
 
 ## Data, baselines features, additional data sources
 
@@ -25,10 +19,6 @@ We provide a simple baseliene at <https://github.com/dsl-s/baselines>.
 The audio data provided as MP3 files by the [Mozilla Common Voice](https://commonvoice.mozilla.org). We also provide pre-computed i-vectors, x-vectors and MFCC features extracted using [Kaldi](https://kaldi-asr.org/). The pre-computed features can be downloaded from [Zenodo](https://zenodo.org/record/7555151). The baseline repository also includes helper scripts for downloading the source data and pre-computed features.
 
 ## Submission instructions
-
-TBA
-
-## System description papers
 
 TBA
 
