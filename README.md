@@ -20,6 +20,23 @@ The audio data provided as MP3 files by the [Mozilla Common Voice](https://commo
 
 ## Submission instructions
 
-TBA
-
-## Organizers
+[The test set](https://github.com/dsl-s/baselines/raw/main/data/testset-dsl-s.tar.gz) contains only the audio files in MP3 format.
+Each participant is allowed to submit 3 runs for the CLOSED submission and 3 runs for the OPEN submission to:
+`ccoltekin@sfs.uni-tuebingen.de`.
+Your submission files must follow the following naming convention: `DSLS-[submission_type]-run-X-[team_name].tsv`
+                                                                                                                                                                                                                    
+The submission files should be a tab separated file with name of the audio file
+and the language id as in:
+```
+001.mp3	da
+002.mp3 et 
+003.mp3 ru
+004.mp3 nn-NO
+005.mp3 fi
+006.mp3 myv
+007.mp3 uk
+008.mp3 mdf
+009.mp3 sv-SE
+...
+```
+Each submission (run) must be accompanied by a DSLTL-readme-[task_type]-run-X-[team_name].txt file containing a one-paragraph description of the respective submission, where X is the run number (1, 2 or 3).
